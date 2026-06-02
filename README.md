@@ -86,8 +86,8 @@ CHANGE:                 $7.82
 ## 📁 Folder Structure
 E4-receipt-generator/
 ├── screenshots/
-│   ├── item-entry.png
-│   └── receipt-output.png
+├── e4-item-entry.png
+├── e4-receipt-output.png
 ├── Program.cs
 ├── exam4.csproj
 ├── LICENSE
@@ -119,11 +119,11 @@ dotnet run
 
 ### Entering Items
 
-![Item Entry](screenshots/e4-item-entry.png)
+![Item Entry](e4-item-entry.png)
 
 ### Final Receipt
 
-![Receipt Output](screenshots/e4-receipt-output.png)
+![Receipt Output](e4-receipt-output.png)
 
 ---
 
